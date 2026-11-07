@@ -1,5 +1,7 @@
 # GostMiner
 
+> **Renamed.** Since version 0.5.0 this miner is **Crypto Connection Miner**: https://github.com/gacanga/crypto-connection-miner (same mining code, Crypto Connection pool by default). This repository keeps GostMiner 0.4.0 and is no longer updated.
+
 Free, open-source multi-coin GPU miner for NVIDIA cards. **No dev fee.**
 
 | Algorithm | Option | Coins |

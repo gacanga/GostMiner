@@ -1,5 +1,7 @@
 # GostMiner
 
+> **Nouveau nom.** Depuis la version 0.5.0 ce mineur s'appelle **Crypto Connection Miner** : https://github.com/gacanga/crypto-connection-miner (même code de minage, pool Crypto Connection par défaut). Ce dépôt garde GostMiner 0.4.0 et n'est plus mis à jour.
+
 Mineur GPU multi-coins, libre et gratuit, pour cartes NVIDIA. **Sans frais de développeur.**
 
 | Algorithme | Option | Coins |
